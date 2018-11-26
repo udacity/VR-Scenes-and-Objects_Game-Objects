@@ -6,7 +6,7 @@ Course asset for the Udacity [VR Developer Nanodegree](http://udacity.com/vr) pr
 
 
 ### Versions Used
-- [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
+- [Unity LTS Release 2017.4.15](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 
 
 ### Directory Structure
